@@ -1,6 +1,6 @@
 # Belly-button-challenge
 
-Belly Button Biodiversity Websit: https://jennykardashov.github.io/belly-button-challenge/
+Belly Button Biodiversity Website: https://jennykardashov.github.io/belly-button-challenge/
 
 The objective of this assignment was to build an interactive dashboard to explore the Belly Button Biodiversity dataset from the North Carolina State Public Science Lab, which catalogs the microbes that colonize human navels.
 
